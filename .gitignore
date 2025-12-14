@@ -8,6 +8,6 @@
 .RData
 .Ruserdata
 
-# Datos crudos (NO se suben)
+# Datos (NO se suben)
 data/raw/
 data/processed/

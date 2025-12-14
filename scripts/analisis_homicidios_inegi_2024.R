@@ -3,19 +3,7 @@
 # INEGI | Estadísticas de Defunciones Registradas (EDR) 2024
 #
 # Autora: Natalia Ruiz
-# Ejercicio: Data Cívica
 #
-# ENFOQUE EDAD (IMPORTANTE):
-# - NO usamos EDAD (porque viene codificada tipo 4050)
-# - Usamos edad_estimada = ANIO_OCUR (o ANIO_REGIS) - ANIO_NACIM
-#
-# Salidas:
-# - outputs/log_mujeres_presunto_homicidio_2024.txt
-# - outputs/resumen_porcentajes_mujeres_2024.csv
-# - outputs/top10_forma_muerte_mujeres_general_2024.png
-# - outputs/top10_forma_muerte_mujeres_indigenas_2024.png
-# - outputs/top10_forma_muerte_mujeres_menores_18_2024.png
-# - outputs/top10_forma_muerte_mujeres_60_mas_2024.png
 # ============================================================
 
 # -------------------------
@@ -32,7 +20,7 @@ library(ggplot2)
 # -------------------------
 # 1) Working directory (raíz del repo)
 # -------------------------
-setwd("~/Documents/homicidios-mx-2024")
+setwd("~/Documents/analisis-interseccional-homicidios-mx-2024")
 
 # -------------------------
 # 2) Outputs + log
