@@ -127,7 +127,7 @@ scripts/analisis_mujeres_presunto_homicidio_2024.R
 **Natalia Ruiz**  
 Análisis de datos con enfoque en derechos humanos, género e interseccionalidad.
 
-Ejercicio realizado como simulación de trabajo analítico alineado a la metodología y valores de **Data Cívica**.
+Ejercicio realizado como simulación de trabajo analítico alineado a la metodología y valores de interseccionalidad.
 
 ---
 
