@@ -1,4 +1,3 @@
-# Mujeres víctimas de presunto homicidio en México (2024)  
 ### Análisis interseccional a partir de datos del INEGI
 
 Este repositorio presenta un análisis exploratorio de los **presuntos homicidios de mujeres en México durante 2024**, utilizando los microdatos de las **Estadísticas de Defunciones Registradas (EDR) del INEGI**.
