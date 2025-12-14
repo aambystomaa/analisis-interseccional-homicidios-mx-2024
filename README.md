@@ -5,8 +5,6 @@ Este repositorio presenta un análisis exploratorio de los **presuntos homicidio
 
 El objetivo del ejercicio es **identificar diferencias en las formas de violencia letal contra las mujeres** según condiciones estructurales como la edad y la condición indígena, desde una **perspectiva de derechos humanos e interseccional**.
 
-El análisis se desarrolla como una simulación de trabajo analítico en el marco de **Data Cívica**, organización enfocada en el uso de datos para el análisis de la violencia, la justicia y los derechos humanos.
-
 ---
 
 ## Contenido del repositorio
